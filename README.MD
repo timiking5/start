@@ -1,2 +1,1 @@
-C# developer with 5 years of commercial experience in fintech and banking sectors. Worked in teams ranging from 2 to 25 members both remotely and on site. Have 1.5 years of team-leading experience. Built full cycle of development: from collecting requirements from analysts to establishing fully automated release pipelines with high test coverage, detailed analytics and CI/CD. Proficient in designing, developing and maintaining highload and fault-tolerant software solutions.
-In addition to .NET knowledge, implemented multiple features involving machine learning.and low-level OS features. In my free time I teach backend and DBMS courses at my university, write articles and participate in hackathons.
+
